@@ -141,7 +141,7 @@ const Home: React.FC = () => {
             <div className={`relative ${aboutVisible ? 'animate-slide-in-right' : 'opacity-0'}`}>
               <div className="absolute inset-0 bg-gradient-to-r from-blue-900 to-blue-900 rounded-2xl transform rotate-3"></div>
               <img
-                src="images\pexels-fauxels-3183190.jpg"
+                src="https://ibb.co/qY2NPySD"
                 alt="Team working"
                 className="relative rounded-2xl shadow-2xl"
               />
